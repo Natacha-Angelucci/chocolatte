@@ -7,7 +7,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>Barista Cafe HTML CSS Template</title>
+        <title><?php echo 'chocolate' .date('j/m/Y H:I:S'); ?></title>
 
         <!-- CSS FILES -->                
         <link rel="preconnect" href="https://fonts.googleapis.com">
